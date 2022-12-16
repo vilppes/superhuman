@@ -7,12 +7,12 @@ I want to be able to help people with technology. I have not yet seen many peopl
 
 # TODO LIST
 
-- [] find 3 books about improving brain functionality
-- [] read them and take notes
-- [] figure out how to improve yourself based on that knowledge
-- [] implement solutions to projects or this project as simple helper tools
-- [] find 3 books about how brains work 
-- [] read them and take notes
-- [] figure out how to improve yourself based on that knowledge
-- [] implement solutions to projects or this project as simple helper tools
-- [] figure out how to make information more accessible to different people
+- [ ] find 3 books about improving brain functionality
+- [ ] read them and take notes
+- [ ] figure out how to improve yourself based on that knowledge
+- [ ] implement solutions to projects or this project as simple helper tools
+- [ ] find 3 books about how brains work 
+- [ ] read them and take notes
+- [ ] figure out how to improve yourself based on that knowledge
+- [ ] implement solutions to projects or this project as simple helper tools
+- [ ] figure out how to make information more accessible to different people
